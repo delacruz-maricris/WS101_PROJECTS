@@ -1,0 +1,35 @@
+
+.card-custom{
+    background:#f9f9ff;
+    border-radius:8px;
+    padding:20px;
+    margin-bottom:20px;
+    min-height:250px;
+    box-shadow: 0 4px 60px rgba(0,0,0,0.1);
+}
+
+.card-custom h5{
+    font-size:18px;
+    font-weight:bold;
+    color:#3b1de7;
+}
+
+.card-custom p{
+    font-size:14px;
+    color:#333;
+}
+
+.btn-custom{
+    background:#1dd7f7;
+    color:white;
+    font-size:14px;
+    font-weight:bold;
+    border:none;
+    padding:6px 12px;
+    border-radius:4px;
+}
+
+.btn-custom:hover{
+    background:#0bb1c7;
+    color:white;
+}
